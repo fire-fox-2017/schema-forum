@@ -1,1 +1,14 @@
 Copy your URL to screenshot here
+http://imgur.com/a/ZUrBo
+
+users one to many stories
+user one to many comments
+user one to many upvotes
+user one to many downvotes
+user one to many replies
+
+stories one to many comments
+stories one to many upvotes
+stories one to many downvotes
+
+comments has many replies
