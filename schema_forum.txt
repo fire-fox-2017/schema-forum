@@ -1,7 +1,7 @@
 Copy your URL to screenshot here
-https://drive.google.com/open?id=0ByGEzjd5NfOxdUJOczgwUktNa00
-user one to many post
-user one to many comment
-user one to many vote
-post one to many comment
-post one to many vote
+https://drive.google.com/open?id=0ByGEzjd5NfOxbWFrX3NBbUlQZTg
+users one to many posts
+users one to many comments
+users one to many votes
+posts one to many comments
+posts one to many votes
